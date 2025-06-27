@@ -1,6 +1,6 @@
 ### Hashicorp Terraform Provider Configuration File ###
 terraform {
-  required_version = "1.12.2"
+  required_version = ">=0.13"
 
   required_providers {
     google = {
